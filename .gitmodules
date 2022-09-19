@@ -1,0 +1,12 @@
+[submodule "esbuild-squoosh"]
+	path = esbuild-squoosh
+	url = git@github.com:bognarlaszlo/esbuild-squoosh.git
+[submodule "esbuild-postsass"]
+	path = esbuild-postsass
+	url = git@github.com:bognarlaszlo/esbuild-postsass.git
+[submodule "esbuild-copy"]
+	path = esbuild-copy
+	url = git@github.com:bognarlaszlo/esbuild-copy.git
+[submodule "esbuild-compress-images"]
+	path = esbuild-compress-images
+	url = git@github.com:bognarlaszlo/esbuild-compress-images.git
